@@ -1,5 +1,5 @@
 # JavaScriptQuiz
-Assignment consist of creating a JavaScript code quiz.  The project began with developing a structure the build the website, as such: 
+Assignment consist of creating a JavaScript code quiz.  The project began with developing a structure to build the website, as such: 
 1. index.html
 2. highscorecard.html
 3. highscorecard.js
@@ -63,6 +63,6 @@ Inputs
 Headings
 Media Screens 
 
-Without the Developer trailblazers like Jamie Morris, novice developers like myself could never become the trailblazers themselves.  I respect the developing footprints of Jamie Morris' work and all students and developer professionals that have come before me. I will earnestly endeavor to build a solid understanding of front-end development. 
+Without the Developer trailblazers like Jamie Morris, novice developers like myself could never become the trailblazers ourselves.  I respect the developing footprints of Jamie Morris' work and all students and developer professionals that have come before me. I will earnestly endeavor to build a solid understanding of front-end development. 
 
 
