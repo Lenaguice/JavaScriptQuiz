@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="style.css">
+
+    <title>JS Code Quiz</title>
+</head>
+
+<body>
+    <!-- Link to highscores -->
+    <a href="highscorecard.html">View Highscores</a>
+    
+    <div id="wrapper">
+        <div id="currentTime"></div>
+        <!-- question div -->
+        <div id="questionsDiv">
+            <h1>JavaScript Quiz Challenge</h1>
+            <p id>Answer the following code questions within the time limit. Incorrect
+                answers will reduce your score/time by 10 seconds!</p>
+                
+            <ul id="choicesUl"></ul>
+            <!-- button id -->
+            <button id="startTime">Start Quiz</button>
+            <p id="music">Click arrow to play music:</p>
+            <div align="center">
+            <audio controls>
+            <source src="assets/PeerGyntSuiteDance.mp3" type="audio/mpeg"> 
+            </audio>
+            </div>  
+            <p id="browser">Browser may not support audio.</p>
+        
+        </div>
+    </div>
+    
+    <script src="codequizquestions.js"></script>
+
+</body>
+
+</html>
